@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pwareact/static/css/main.c43293a8.css",
+    "main.js": "/pwareact/static/js/main.4324ca35.js",
+    "static/js/377.198e8551.chunk.js": "/pwareact/static/js/377.198e8551.chunk.js",
+    "service-worker.js": "/pwareact/service-worker.js",
+    "index.html": "/pwareact/index.html",
+    "main.c43293a8.css.map": "/pwareact/static/css/main.c43293a8.css.map",
+    "main.4324ca35.js.map": "/pwareact/static/js/main.4324ca35.js.map",
+    "377.198e8551.chunk.js.map": "/pwareact/static/js/377.198e8551.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c43293a8.css",
+    "static/js/main.4324ca35.js"
+  ]
+}
